@@ -1,0 +1,16 @@
+---
+import PostPage from "../components/PostPage.astro";
+import Pagination from "../components/control/Pagination.astro";
+import {PAGE_SIZE} from "../constants/constants";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import {getSortedPosts} from "../utils/content-utils";
+
+import I18nKey from "../i18n/i18nKey";
+import {i18n} from "../i18n/translation";
+
+
+---
+
+<MainGridLayout title={i18n(I18nKey.recommendations)} description={i18n(I18nKey.recommendations)}>
+<h1>Mis recomendaciones</h1>
+</MainGridLayout>
