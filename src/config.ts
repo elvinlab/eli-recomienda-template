@@ -30,32 +30,37 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:telegram', // Visit https://icones.js.org/ for icon codes
       // You will need to install the corresponding icon set if it's not already included
       // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://t.me/elirecomienda',
     },
     {
       name: 'Whatsapp',
       icon: 'fa6-brands:whatsapp',
-      url: 'https://store.steampowered.com',
+      url: 'https://chat.whatsapp.com/BBhiORW58YZFpFGeOO1KM5',
     },
     {
       name: 'Facebook',
       icon: 'fa6-brands:facebook',
-      url: 'https://store.steampowered.com',
+      url: 'https://www.facebook.com/profile.php?id=61561528753778',
     },
     {
       name: 'Instagram',
       icon: 'fa6-brands:instagram',
-      url: 'https://github.com/elvinlab/eli-recomienda-store',
+      url: 'https://www.instagram.com/eliterecomienda/',
     },
     {
       name: 'Tiktok',
       icon: 'fa6-brands:tiktok',
-      url: 'https://github.com/elvinlab/eli-recomienda-store',
+      url: 'https://www.tiktok.com/@eliterecomienda',
+    },
+    {
+      name: 'Tiktok',
+      icon: 'fa6-brands:youtube',
+      url: 'https://www.youtube.com/@elirecomienda',
     },
     {
       name: 'Mail',
       icon: 'material-symbols:outgoing-mail-rounded',
-      url: 'https://github.com/elvinlab/eli-recomienda-store',
+      url: 'eliterecomienda@gmail.com',
     },
   ],
 }
