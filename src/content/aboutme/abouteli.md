@@ -2,13 +2,11 @@
 
 ¡Hola! 🌟 ¡Bienvenido a mi blog de recomendaciones! Me alegra mucho tenerte aquí. 😊 Soy Elizabeth González, y desde hace años me dedico apasionadamente a probar y recomendar productos que pueden hacer una diferencia real en tu vida. Este espacio nace de mi profunda pasión por ayudar a las personas a tomar decisiones informadas y seguras al elegir productos que mejor se adapten a sus necesidades y estilo de vida.
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
- <div style="flex-shrink: 0; margin-right: 20px;">
-  <p>
-  <img src="https://hackmd.io/_uploads/rJUcb1bvC.jpg" width="300">
-  </p>
-  </div>
-<div style="flex: 1;">
+ <div class="flex flex-wrap justify-between">
+    <div class="w-full sm:w-auto flex justify-center sm:justify-start mr-5 sm:mb-0">
+        <img src="https://hackmd.io/_uploads/rJUcb1bvC.jpg" class="w-48 md:w-72 lg:w-96">
+    </div>
+    <div class="flex-auto sm:flex-1">
 
 ## Mi Trayectoria y Compromiso
 
@@ -20,7 +18,8 @@ Además de mi pasión por los productos, colaboro estrechamente con mi hermano, 
 
 En este blog, mi enfoque principal es la **transparencia** y la **objetividad**. Cada recomendación que encuentres aquí está respaldada por pruebas y evaluaciones exhaustivas. Creo firmemente en proporcionar **información completa y precisa** para que puedas tomar decisiones informadas.
 
-  </div>
+</div>
+
 </div>
 
 ## Qué Puedes Esperar
